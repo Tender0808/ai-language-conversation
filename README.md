@@ -24,4 +24,4 @@ AI-powered Japanese conversation practice platform for Chinese learners.
 - 马上要找自己的教授针对自己的研究计划书进行一个简单的介绍
 - 求职面试前想要提前进行练习
 ## Current Status
-Planning and Learning Stage
+MVP definition stage.
