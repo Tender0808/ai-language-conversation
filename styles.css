@@ -95,3 +95,17 @@ button:hover,
 .message p:last-child {
     margin: 0;
 }
+.user-message {
+  margin-top: 12px;
+  margin-left: auto;
+  color: #ffffff;
+  background-color: #2563eb;
+}
+
+.user-message .speaker {
+  color: #dbeafe;
+}
+button:disabled {
+    background-color: #94a3b8;
+    cursor: not-allowed;
+}
