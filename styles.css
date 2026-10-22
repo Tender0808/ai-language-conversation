@@ -95,3 +95,42 @@ button:hover,
 .message p:last-child {
     margin: 0;
 }
+.chat-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.user-message {
+    align-self: flex-end;
+    background-color: #dcfce7;
+}
+
+button:disabled {
+    background-color: #94a3b8;
+    cursor: not-allowed;
+}
+
+.end-button {
+    color: #2563eb;
+    background-color: #ffffff;
+    border: 2px solid #2563eb;
+}
+
+.end-button:hover {
+    color: #ffffff;
+}
+
+.feedback-panel {
+    margin-top: 24px;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: #fff7ed;
+}
+
+.secondary-link {
+    display: block;
+    margin-top: 16px;
+    text-align: center;
+    color: #475569;
+}
